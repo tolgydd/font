@@ -1,0 +1,50 @@
+@font-face {
+    font-family: 'Affogato';
+    src: local('Affogato Light'), local('Affogato-Light'),
+        url('Affogato-Light.woff2') format('woff2'),
+        url('Affogato-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Affogato';
+    src: local('Affogato Medium'), local('Affogato-Medium'),
+        url('Affogato-Medium.woff2') format('woff2'),
+        url('Affogato-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Affogato';
+    src: local('Affogato Bold'), local('Affogato-Bold'),
+        url('Affogato-Bold.woff2') format('woff2'),
+        url('Affogato-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Affogato';
+    src: local('Affogato Black'), local('Affogato-Black'),
+        url('Affogato-Black.woff2') format('woff2'),
+        url('Affogato-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Affogato';
+    src: local('Affogato Regular'), local('Affogato-Regular'),
+        url('Affogato-Regular.woff2') format('woff2'),
+        url('Affogato-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
